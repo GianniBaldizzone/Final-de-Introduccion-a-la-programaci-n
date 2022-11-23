@@ -1,0 +1,8 @@
+package img;
+
+public class Snippet {
+	public static void main(String[] args) {
+		JOptionPane.showMessageDialog(null,"Bienvenido a la sala de juegos digital GianniCorp \n a continuación se le presentara un menu \npara seleccionar entre dos juegos de apuestas !!!","Bienvenida",JOptionPane.DEFAULT_OPTION,new ImageIcon(Proyectofinal.class.getResource("/img/bienvenida.gif")));
+	}
+}
+
